@@ -1,4 +1,3 @@
-
 <div align="center">
     <a>
          <img
@@ -6,7 +5,7 @@
         src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="
     />
     <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
+        <img draggable="false" style="width:119px;height:20px;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
         <a href="https://bibeksabat.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
@@ -14,11 +13,9 @@
     </p>
 </div>
 
-
-
 <!-- Poster & Links -->
 <div align="center">
-<a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
+<a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a>
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
@@ -35,7 +32,6 @@
   </a>
 </div>
 
-
  <!-- Heading and BIO -->
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
 
@@ -45,7 +41,7 @@
 <p align='center'>
 <img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
- 
+
 - 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
@@ -67,37 +63,36 @@
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
-
 ## 📊 GitHub Analytics
 
   <!-- Stats Cards Row 2 -->
   <table>
     <tr>
       <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Repos per Language" 
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight"
+          alt="Repos per Language"
         />
       </td>
       <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Most Commit Language" 
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight"
+          alt="Most Commit Language"
         />
       </td>
       <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5" 
-          alt="Productive Time" 
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5"
+          alt="Productive Time"
         />
       </td>
     </tr>
   </table>
 
   <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" 
-    alt="GitHub Streak" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800"
+    alt="GitHub Streak"
   />
 
 </div>
@@ -114,7 +109,7 @@
 <a href="mailto:bibeksabat5278@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
 <a href="https://instagram.com/orewa.kai"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  /></a>
 <a href="https://in.linkedin.com/in/bibeksabat"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
-<a href="https://medium.com/@orewa.kai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@orewa.kai" height="30" width="42" /></a>
+<a href="https://medium.com/@orewa.kai" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@orewa.kai" height="30" width="42" /></a>
 <a href="https://twitter.com/bibeksabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  /></a>
 <a href="https://linktr.ee/BibekSabat" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://stackoverflow.com/users/30944368/bibek-sabat" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="42" height="30" alt="linktree logo"  /></a>
@@ -132,15 +127,12 @@
 </p>
  <!-- Banners 2nd Phase -->
 
-
  <!-- Typewriting Introduction -->
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
 
-
-
  <!-- Banners 3rd Phase : About Me -->
-<p align = 'right'>
+<p align="right">
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%">
 </p>
  <!-- Banners 3rd Phase : About Me -->
@@ -161,7 +153,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
 <!-- Banners 4th Phase : SpiderMan -->
-<p align = 'right'>
+<p align="right">
 <img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
 </p>
 <!-- Banners 4th Phase : SpiderMan -->
@@ -241,7 +233,7 @@
 <!-- Activity Graph -->
 <!-- Total year Graph -->
 <div>
-    <p align ="center"> 
+    <p align ="center">
         <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
             <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=vue">
     </p>
@@ -251,8 +243,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- Contribution Stack -->
-
-
 
 <!-- Contribution Game -->
 <h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Contribution Game 🐍🎮</i></b> </h1>
@@ -275,8 +265,8 @@
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <p align='center'>
-<a href="https://twitter.com/bibeksabat" target="blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a> 
-<a href="https://www.instagram.com/orewa.kai/" target="blank"><img src="https://i.postimg.cc/02GGTLPS/Add-a-subheading-5-removebg-preview.png" width="35%" /></a> 
+<a href="https://twitter.com/bibeksabat" target="_blank"><img src="https://i.postimg.cc/4NG4KtGt/Add-a-subheading-3-removebg-preview.png" width="35%" /></a>
+<a href="https://www.instagram.com/orewa.kai/" target="_blank"><img src="https://i.postimg.cc/02GGTLPS/Add-a-subheading-5-removebg-preview.png" width="35%" /></a>
 </p>
 <!-- Instagram + Twitter FollowLinks -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -284,12 +274,10 @@
 
 <!-- Blog Section -->
 <div align="center">
-<h2>✍🏻 Read My Blogs on [ 
-<a href = "https://medium.com/@orewa.kai" >Medium </a>, 
-<a href = "https://dev.to/bibeksabat" >Dev.to </a>, 
+<h2>✍🏻 Read My Blogs on [
+<a href = "https://medium.com/@orewa.kai" >Medium </a>,
+<a href = "https://dev.to/bibeksabat" >Dev.to </a>,
 <a href = "https://www.linkedin.com/in/bibeksabat" >Linkedin</a>]</h2>
-
-
 
 |                          **Blog Name**                           | **Views** |                                                                       **Link**                                                                        |
 | :--------------------------------------------------------------: | :-------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -311,7 +299,6 @@
 <h2> Latest Projects : <a href = "https://github.com/ICLIPTER?tab=repositories">For More</a></h2>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 
 </div>
 <!-- Youtube Section -->
@@ -349,11 +336,10 @@
 </div>
 
 <div align="center">
- 
-Donate if you wish to support 💗: 
+
+Donate if you wish to support 💗:
 **[[Buy Me a Book](https://buymeacoffee.com/bibeksabat)]**
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
