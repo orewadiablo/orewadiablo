@@ -16,14 +16,15 @@
   </a>
 </div>
 
-
-
+<!-- Changing Texts -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+ 
 <p align='center'>
 <img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
+
+
  
 - 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
