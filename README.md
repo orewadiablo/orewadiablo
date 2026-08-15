@@ -1,3 +1,27 @@
+ <!-- Heading and Typograssy and profile views -->
+<div align="center">
+  <img
+    alt="Typograssy"
+    src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=BF00FF&l2=8A00FF&l3=6A00FF&l4=3B008F&bg=none&frame=none&speed=100&comment="
+  />
+  <br><br>
+  <img
+    draggable="false"
+    style="width:119px; height:20px;"
+    src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=BF00FF"
+    alt="Profile Views"
+  />
+
+  <a href="https://bibeksabat.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-BF00FF?style=for-the-badge"
+      alt="Portfolio"
+    />
+  </a>
+</div>
+ 
+ 
+ 
  <!-- Heading and BIO -->
 <h1 align="center">
   Hi
@@ -40,6 +64,7 @@
 <!-- Extra Details -->
 <table>
   <tr>
+<!-- Itachi GIf -->
     <td width="30%" align="center" valign="middle">
       <img
         src="./assets/itachi.gif" width="220" alt="Itachi Uchiha"
@@ -71,7 +96,6 @@
     </td>
   </tr>
 </table>
-
 
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
