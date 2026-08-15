@@ -81,8 +81,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Music+%7C+Linux+%7C+Art+%7C+Science;Programming+%7C+Animation+%7C+Video+Editing;Web+Development+%7C+Game+Development;UI%2FUX+Design+%7C+3D+Modeling+%7C+Digital+Art;Photography+%7C+Gaming+%7C+Technology;Open+Source+%7C+Cybersecurity+%7C+AI;Machine+Learning+%7C+Cloud+Computing+%7C+DevOps;Creative+Coding+%7C+Problem+Solving+%7C+Innovation" alt="Typing SVG" />
 
 
-<p align='center'>
  <!-- Solo leveling header gif -->
+<p align='center'>
 <img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
 </div>
@@ -125,50 +125,53 @@
 
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=iclipter&label=Profile%20views&color=0e75b6&style=flat" alt="iclipter" /> <br>
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/iclipter"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/iclipter">
 </p>
 
+## 💜 GitHub Analytics
 
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
+<div align="center">
 
-## 📊 GitHub Analytics
-
-  <!-- Stats Cards Row 2 -->
+  <!-- Language & Productivity Stats -->
   <table>
     <tr>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Repos per Language" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ICLIPTER&theme=tokyonight"
+          alt="Repositories per Language"
         />
       </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight" 
-          alt="Most Commit Language" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ICLIPTER&theme=tokyonight"
+          alt="Most Used Languages by Commits"
         />
       </td>
-      <td width="33%">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5" 
-          alt="Productive Time" 
+      <td align="center" width="33%">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ICLIPTER&theme=tokyonight&utcOffset=5.5"
+          alt="Productive Time"
         />
       </td>
     </tr>
   </table>
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" 
-    alt="GitHub Streak" 
+  <br>
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&background=0D001A&ring=BF00FF&fire=9D00FF&currStreakLabel=BF00FF&sideLabels=BF00FF&dates=9D9DFF&card_width=800"
+    alt="GitHub Contribution Streak"
   />
-
+  <br><br>
+  <!-- GitHub Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=tokyonight"
+    width="95%"
+    alt="GitHub Profile Summary"
+  />
 </div>
 
----
 
 <!-- Contact Section -->
 
