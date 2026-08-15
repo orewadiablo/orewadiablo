@@ -35,7 +35,9 @@
  <!-- Solo leveling header gif -->
 <img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
 </p>
+</div>
 
+<div align="left">
  <!-- Extra Details -->
 - 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
