@@ -1,6 +1,9 @@
  <!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
-
+<h1 align="center">
+  Hi
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="42">
+  , I am Bibek Sabat
+</h1>
 
 <!-- Changing Texts -->
 <div align="center">
