@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="./assets/itachi.gif" width="220" alt="Itachi Uchiha">
+      <img src="https://media1.tenor.com/m/TwXyz8OMEsEAAAAC/itachi-uchiha-uchiha.gif" width="220" alt="Itachi Uchiha">
     </td>
 
     <td width="70%" valign="middle">
