@@ -132,9 +132,14 @@
 
 ## 💜 GitHub Analytics
 
-<div align="center">
-<div class="tenor-gif-embed" data-postid="16860164543817319924" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/luffy-gif-16860164543817319924">Luffy GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+    <!-- Luffy GIF -->
+  <img
+    src="https://media.tenor.com/REPLACE_WITH_GIF_URL.gif"
+    width="100%"
+    alt="Luffy GIF"
+  />
+  <br><br>
+  
   <!-- Language & Productivity Stats -->
   <table>
     <tr>
