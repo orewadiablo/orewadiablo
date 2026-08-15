@@ -20,6 +20,9 @@
   <a href="https://medium.com/@orewa.kai">
     <img src="https://img.shields.io/badge/Blogs-Medium-green?style=for-the-badge" />
   </a>
+  <a href="https://www.deviantart.com/iclipter">
+    <img src="https://img.shields.io/badge/art-Arts-yellow?style=for-the-badge" />
+  </a>
 </div>
 
 <!-- Changing Text 2 -->
