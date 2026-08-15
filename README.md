@@ -395,71 +395,133 @@
 <!-- 🚀 Featured Projects -->
 <div align="center">
 
-<h3>🚀 Featured Projects</h3>
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Ucademy
+
+A production-ready Learning Management System built with modern full-stack technologies.
+
+**Next.js 15 • TypeScript • Prisma • Neon PostgreSQL**
 
 <a href="https://github.com/ICLIPTER/Ucademy">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Ucademy&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Ucademy"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌙 Lunaris
+
+A modern TypeScript project focused on building a polished and scalable web experience.
+
+**TypeScript • Modern Web Development**
 
 <a href="https://github.com/ICLIPTER/Lunaris">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Lunaris&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Lunaris"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 Arqive
+
+A modern TypeScript project showcasing contemporary frontend development.
+
+**TypeScript • Modern UI • Web Development**
 
 <a href="https://github.com/ICLIPTER/Arqive">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Arqive&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Arqive"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎬 Netflix Clone AI
+
+A full-stack Netflix clone with Gemini AI-powered mood-based movie recommendations.
+
+**MERN • Gemini AI • TMDB • Authentication**
 
 <a href="https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Netflix Clone with AI Recommendations"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Noesis
+
+An AI-powered search platform inspired by DeepSeek, built for intelligent and context-aware search.
+
+**Next.js • JavaScript • DeepSeek API**
 
 <a href="https://github.com/ICLIPTER/noesis">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=noesis&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Noesis"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⛏️ Minecraft Clone
+
+A 3D voxel game built from scratch using C++ and OpenGL.
+
+**C++ • OpenGL • 3D Graphics**
 
 <a href="https://github.com/ICLIPTER/Minecraft-Clone">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Minecraft-Clone&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Minecraft Clone"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⛓️ Blockchain Simulation
+
+An interactive blockchain simulation with a FastAPI backend and React frontend.
+
+**Python • FastAPI • React • TailwindCSS**
 
 <a href="https://github.com/ICLIPTER/Blockchain-Simulation">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Blockchain-Simulation&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="Blockchain Simulation"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔎 GitHub Finder
+
+Search GitHub users and explore their profiles, repositories, and activity.
+
+**JavaScript • GitHub API • Web Development**
 
 <a href="https://github.com/ICLIPTER/github-finder">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
-    alt="GitHub Finder"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</td>
+</tr>
+
+</table>
+
 </div>
+
 
 <div align="center">
 <a href="https://buymeacoffee.com/bibeksabat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
