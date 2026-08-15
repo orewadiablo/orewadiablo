@@ -7,10 +7,6 @@
   />
 </div>
 
-<!-- Poster & Links -->
-<div align="center">
-<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="100%"></a> 
-</div>
 
  <!-- Profile links -->
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
@@ -32,6 +28,11 @@
 <!-- Changing Text 2 -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Music+%7C+Linux+%7C+Art+%7C+Science;Programming+%7C+Animation+%7C+Video+Editing;Web+Development+%7C+Game+Development;UI%2FUX+Design+%7C+3D+Modeling+%7C+Digital+Art;Photography+%7C+Gaming+%7C+Technology;Open+Source+%7C+Cybersecurity+%7C+AI;Machine+Learning+%7C+Cloud+Computing+%7C+DevOps;Creative+Coding+%7C+Problem+Solving+%7C+Innovation" alt="Typing SVG" />
+  
+<!-- Poster & Links -->
+<div align="center">
+<a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="100%"></a> 
+</div>
 
 
  <!-- Solo leveling header gif -->
