@@ -34,6 +34,7 @@
 <a href="https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png"><img align='center' src= "https://i.postimg.cc/t46C7LwG/Every-model-I-use-teaches-me-more-about-myself.png" width="100%"></a> 
 </div>
 
+<br>
 
  <!-- Solo leveling header gif -->
 <p align='center'>
