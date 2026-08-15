@@ -1,9 +1,9 @@
 <!-- Capsule Render on GitHub -->
 <div align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0066,50:8A00FF,100:BF00FF&height=180&section=header&text=BIBEK%20SABAT&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
-  width="100%"
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,25:2B0057,50:6A00FF,75:9D00FF,100:BF00FF&height=200&section=header&text=BIBEK%20SABAT&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+    width="100%"
+  />
 </div>
  
  
