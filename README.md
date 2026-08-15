@@ -20,9 +20,7 @@
     >
     , I am Bibek Sabat
   </h1>
-
 </div>
-
 
 
 <!-- Changing Texts -->
@@ -31,6 +29,7 @@
  <!-- Poster & Links -->
 <div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 </h1>
  
@@ -103,8 +102,8 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/iclipter"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/iclipter">
 </p>
 
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
+ <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
 ## 📊 GitHub Analytics
 
