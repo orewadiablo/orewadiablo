@@ -1,67 +1,13 @@
-<!-- ========================= -->
-<!--      NEON PURPLE HEADER   -->
-<!-- ========================= -->
-
-<div align="center">
 
   <!-- Animated Header -->
+<div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,20:210047,45:4B00B5,70:8A00FF,100:D500FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
     width="100%"
     alt="Bibek Sabat"
   />
-
-  <!-- Introduction -->
-  <h1>
-    Hi
-    <img
-      src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-      height="40"
-      alt="Waving hand"
-    />
-    I'm Bibek Sabat
-  </h1>
-
-  <!-- Typing Animation -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality"
-    alt="Typing animation"
-  />
-
-  <!-- Short Intro -->
-  <p>
-    🚀 <b>Full Stack Developer</b> &nbsp;•&nbsp;
-    🎨 <b>2D / 3D Artist</b> &nbsp;•&nbsp;
-    💡 <b>Creative Problem Solver</b>
-  </p>
-
-  <!-- Tech Focus -->
-  <p>
-    <img src="https://img.shields.io/badge/Code-6A00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Design-BF00FF?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Build-9D00FF?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
-
 </div>
 
-<!-- ========================= -->
-<!--          DIVIDER          -->
-<!-- ========================= -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"
-    width="80%"
-  />
-</p>
-
- <!-- Poster & Links -->
-<div align="center">
-<a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-</h1>
- 
  <!-- Profile links -->
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
 <div align="center">
