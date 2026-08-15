@@ -285,7 +285,6 @@
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
 <img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
 </p>
-<!-- Contribution Statistics and Visuals -->
 
 <!-- Activity Graph -->
 
@@ -365,7 +364,6 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-
 </div>
 <!-- Youtube Section -->
 
@@ -375,25 +373,72 @@
 </p>
 <!-- Footer -->
 
-<!-- Projects and Repository -->
+<!-- 🚀 Featured Projects -->
+<div align="center">
 
-<div align='center'>
+<h3>🚀 Featured Projects</h3>
 
-<h4 align="center"> ✨ Most Stars Repositories</h4>
+<a href="https://github.com/ICLIPTER/Ucademy">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Ucademy&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Ucademy"
+  />
+</a>
 
-![](https://m3-markdown-badges.vercel.app/stars/1/1/ICLIPTER/StoreForge-E-comm-App)
-![](https://m3-markdown-badges.vercel.app/stars/3/2/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+<a href="https://github.com/ICLIPTER/Lunaris">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Lunaris&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Lunaris"
+  />
+</a>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=StoreForge-E-comm-APP&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/StoreForge-E-comm-App)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iclipter&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations)
+<br />
 
-<h4 align="center"> 🏆 Open Source Repositories</h4>
+<a href="https://github.com/ICLIPTER/Arqive">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Arqive&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Arqive"
+  />
+</a>
 
-![](https://m3-markdown-badges.vercel.app/stars/5/3/ICLIPTER/github-finder)
-![](https://m3-markdown-badges.vercel.app/stars/8/2/ICLIPTER/bibek-s-portfolio)
+<a href="https://github.com/ICLIPTER/Fullstack-Netflix-Clone-with-AI-Recommendations">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Fullstack-Netflix-Clone-with-AI-Recommendations&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Netflix Clone with AI Recommendations"
+  />
+</a>
 
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/github-finder)
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=ICLIPTER&repo=bibek-s-portfolio&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast)](https://github.com/ICLIPTER/bibek-s-portfolio)
+<br />
+
+<a href="https://github.com/ICLIPTER/noesis">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=noesis&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Noesis"
+  />
+</a>
+
+<a href="https://github.com/ICLIPTER/Minecraft-Clone">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Minecraft-Clone&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Minecraft Clone"
+  />
+</a>
+
+<br />
+
+<a href="https://github.com/ICLIPTER/Blockchain-Simulation">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=Blockchain-Simulation&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="Blockchain Simulation"
+  />
+</a>
+
+<a href="https://github.com/ICLIPTER/github-finder">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ICLIPTER&repo=github-finder&title_color=DD8484&icon_color=E25822&text_color=A6A6A6&theme=highcontrast"
+    alt="GitHub Finder"
+  />
+</a>
 
 </div>
 
