@@ -40,12 +40,14 @@
 <!-- Extra Details -->
 <table>
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media1.tenor.com/m/TwXyz8OMEsEAAAAC/itachi-uchiha-uchiha.gif" width="220" alt="Itachi Uchiha">
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://media1.tenor.com/m/TwXyz8OMEsEAAAAC/itachi-uchiha-uchiha.gif"
+        width="250"
+        alt="Itachi Uchiha"
+      />
     </td>
-
-    <td width="70%" valign="middle">
-
+    <td width="65%" valign="middle">
 <h2>🚀 About Me</h2>
 
 <p>🔭 I’m currently learning <strong>to integrate advanced AI technologies into my projects and become more proficient in modern web application development.</strong></p>
@@ -55,7 +57,6 @@
 <p>💬 Ask me about <strong>JavaScript, React, Next.js, Node.js, AWS, and general software development.</strong></p>
 
 <p>⚡ Fun fact: <strong>I write better code at 2AM than I do after 2 cups of coffee ☕💻</strong></p>
-
     </td>
   </tr>
 </table>
