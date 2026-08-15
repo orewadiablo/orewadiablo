@@ -67,6 +67,16 @@
   ⚡ Fun fact: <strong>I write better code at 2AM than I do after
   2 cups of coffee ☕💻</strong>
 </p>
+<p>
+  🎨 I’m exploring <strong>Digital Arts, creative coding, generative art,
+  and AI-powered visual experiences.</strong>
+</p>
+
+<p>
+  🚀 I love experimenting with <strong>new technologies, building
+  cool side projects, and turning random ideas into something people
+  can actually use.</strong>
+</p>
     </td>
   </tr>
 </table>
