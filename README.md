@@ -1,17 +1,30 @@
-<!-- Capsule Render on GitHub -->
+<!-- Neon Purple Header + Introduction -->
 <div align="center">
+
+  <!-- Capsule Render -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,25:2B0057,50:6A00FF,75:9D00FF,100:BF00FF&height=200&section=header&text=BIBEK%20SABAT&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
     width="100%"
+    alt="BIBEK SABAT"
   />
+
+  <br>
+
+  <!-- Heading -->
+  <h1>
+    Hi
+    <img
+      src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+      height="42"
+      alt="Waving"
+    >
+    , I am Bibek Sabat
+  </h1>
+
 </div>
- 
- 
- <!-- Heading and BIO -->
-<h1 align="center">
-  Hi
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="42">
-  , I am Bibek Sabat
+
+
+
 <!-- Changing Texts -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
