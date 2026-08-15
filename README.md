@@ -251,7 +251,7 @@
 <img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iclipter&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif"  width="130px" height="150px">
-<img align="left" src="https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif"  width="160px" height="160px">
+<img align="left" src="[https://media.tenor.com/cJtDhl2-MP0AAAAi/goku-dragon-ball.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdlODZ1ZXY1ZmI5MDk4dWY2ajhwb2V4bDJwazQ5Y290MjVuM2ttaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dQ4H1D4P0G9W0/giphy.gif)"  width="160px" height="160px">
 </p>
 
 <!-- Activity Graph -->
@@ -268,9 +268,7 @@
 </div>
 
 <!-- Total year Graph -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Stack -->
 
 
 
