@@ -132,13 +132,10 @@
 
 ## 💜 GitHub Analytics
 
-    <!-- Luffy GIF -->
-  <img
-    src="https://media.tenor.com/REPLACE_WITH_GIF_URL.gif"
-    width="100%"
-    alt="Luffy GIF"
-  />
-  <br><br>
+ <!-- Solo leveling header gif -->
+<p align='center'>
+<img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
+</p>
   
   <!-- Language & Productivity Stats -->
   <table>
