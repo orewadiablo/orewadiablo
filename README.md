@@ -17,13 +17,6 @@
     alt="Typing animation"
   />
 
-  <!-- Short Intro -->
-  <p>
-    🚀 <b>Full Stack Developer</b> &nbsp;•&nbsp;
-    🎨 <b>2D / 3D Artist</b> &nbsp;•&nbsp;
-    💡 <b>Creative Problem Solver</b>
-  </p>
-
   <!-- Tech Focus -->
   <p>
     <img src="https://img.shields.io/badge/Code-6A00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
