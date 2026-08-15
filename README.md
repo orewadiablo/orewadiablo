@@ -37,7 +37,6 @@
 </p>
 
  <!-- Extra Details -->
-<p align="left">
 - 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
@@ -45,7 +44,6 @@
 - 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
 
 - ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
-</p>
 </div>
 
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
