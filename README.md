@@ -40,10 +40,9 @@
 <!-- Extra Details -->
 <table>
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://tenor.com/gWNLPNn2d8T.gif" width="220" alt="Itachi">
+    <td width="30%" align="center" valign="top">
+      <img src="https://media1.tenor.com/m/TwXyz8OMEsEAAAAC/itachi-uchiha-uchiha.gif" width="220" alt="itachi">
     </td>
-
     <td width="70%" valign="top">
 
 ### 🚀 About Me
