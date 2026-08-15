@@ -133,6 +133,7 @@
 ## 💜 GitHub Analytics
 
 <div align="center">
+<div class="tenor-gif-embed" data-postid="16860164543817319924" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/luffy-gif-16860164543817319924">Luffy GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
   <!-- Language & Productivity Stats -->
   <table>
@@ -158,12 +159,6 @@
     </tr>
   </table>
   <br>
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ICLIPTER&theme=tokyonight&hide_border=true&background=0D001A&ring=BF00FF&fire=9D00FF&currStreakLabel=BF00FF&sideLabels=BF00FF&dates=9D9DFF&card_width=800"
-    alt="GitHub Contribution Streak"
-  />
-  <br><br>
   <!-- GitHub Profile Summary -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ICLIPTER&theme=tokyonight"
