@@ -1,30 +1,61 @@
-<!-- Neon Purple Header + Introduction -->
+<!-- ========================= -->
+<!--      NEON PURPLE HEADER   -->
+<!-- ========================= -->
+
 <div align="center">
 
-  <!-- Capsule Render -->
+  <!-- Animated Header -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,25:2B0057,50:6A00FF,75:9D00FF,100:BF00FF&height=200&section=header&text=BIBEK%20SABAT&fontSize=55&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,20:210047,45:4B00B5,70:8A00FF,100:D500FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
     width="100%"
-    alt="BIBEK SABAT"
+    alt="Bibek Sabat"
   />
 
-  <br>
-
-  <!-- Heading -->
+  <!-- Introduction -->
   <h1>
     Hi
     <img
       src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-      height="42"
-      alt="Waving"
-    >
-    , I am Bibek Sabat
-<!-- Changing Texts -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+      height="40"
+      alt="Waving hand"
+    />
+    I'm Bibek Sabat
   </h1>
+
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality"
+    alt="Typing animation"
+  />
+
+  <br>
+
+  <!-- Short Intro -->
+  <p>
+    🚀 <b>Full Stack Developer</b> &nbsp;•&nbsp;
+    🎨 <b>2D / 3D Artist</b> &nbsp;•&nbsp;
+    💡 <b>Creative Problem Solver</b>
+  </p>
+
+  <!-- Tech Focus -->
+  <p>
+    <img src="https://img.shields.io/badge/Code-6A00FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Design-BF00FF?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Build-9D00FF?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
 </div>
 
+<!-- ========================= -->
+<!--          DIVIDER          -->
+<!-- ========================= -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3&section=header"
+    width="80%"
+  />
+</p>
 
  <!-- Poster & Links -->
 <div align="center">
