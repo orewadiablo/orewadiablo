@@ -1,26 +1,4 @@
 
-<div align="center">
-    <a>
-         <img
-        alt="typograssy"
-        src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="
-    />
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
-        <a href="https://bibeksabat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-        </a>
-    </p>
-</div>
-
-
-
-<!-- Poster & Links -->
-<div align="center">
-<a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
-</div>
-
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
 
 <div align="center">
