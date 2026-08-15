@@ -11,35 +11,6 @@
     alt="Bibek Sabat"
   />
 
-
-  <!-- typograssy -->
-  <div align="center">
-    <a>
-         <img
-        alt="typograssy"
-        src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="
-    />
-  <!-- links -->
-    <p>
-        <img draggable="false"style="witdh:119xp;height:20xp;" src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=1C8C8C">
-        <a href="https://bibeksabat.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-        </a>
-    </p>
-</div>
-
-  <!-- Introduction -->
-  <h1>
-    Hi
-    <img
-      src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-      height="40"
-      alt="Waving hand"
-    />
-    I'm Bibek Sabat
-  </h1>
-
   <!-- Typing Animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality"
