@@ -36,7 +36,7 @@
 
 <br> 
 
-<\br>
+
 
  <!-- Solo leveling header gif -->
 <p align='center'>
