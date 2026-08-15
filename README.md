@@ -10,11 +10,30 @@
     width="100%"
     alt="Bibek Sabat"
   />
+
+  <!-- Introduction -->
+  <h1>
+    Hi
+    <img
+      src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+      height="40"
+      alt="Waving hand"
+    />
+    I'm Bibek Sabat
+  </h1>
+
   <!-- Typing Animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=B967FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality"
     alt="Typing animation"
   />
+
+  <!-- Short Intro -->
+  <p>
+    🚀 <b>Full Stack Developer</b> &nbsp;•&nbsp;
+    🎨 <b>2D / 3D Artist</b> &nbsp;•&nbsp;
+    💡 <b>Creative Problem Solver</b>
+  </p>
 
   <!-- Tech Focus -->
   <p>
