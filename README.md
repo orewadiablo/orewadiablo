@@ -1,6 +1,9 @@
+ <!-- Heading and BIO -->
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
 
+
+ <!-- Profile links -->
 ![](https://hit.yhype.me/github/profile?account_id=61287791)
-
 <div align="center">
   <a href="https://drive.google.com/file/d/1YJaPvQYLbrgMC00XME4DI3bvT4wmUjRR/view?usp=sharing">
     <img src="https://img.shields.io/badge/CV-%40Bibek-blue?style=for-the-badge" />
@@ -14,8 +17,6 @@
 </div>
 
 
- <!-- Heading and BIO -->
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
