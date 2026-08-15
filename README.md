@@ -132,10 +132,16 @@
 
 ## 💜 GitHub Analytics
 
- <!-- Solo leveling header gif -->
-<p align='center'>
-<img align='center' src= "https://giffiles.alphacoders.com/221/221575.gif" width="600px"  >
-</p>
+ <!-- Luffy GIF -->
+  <p align="center">
+    <img
+      src="/assets/luffy.gif"
+      width="600px"
+      alt="Luffy"
+    />
+  </p>
+
+  <br>
   
   <!-- Language & Productivity Stats -->
   <table>
