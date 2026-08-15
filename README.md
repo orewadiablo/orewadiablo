@@ -20,12 +20,12 @@
     >
     , I am Bibek Sabat
   </h1>
-</div>
-
-
 <!-- Changing Texts -->
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;2D+%2F+3D+Artist;Creative+Problem+Solver;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</div>
+
+
  <!-- Poster & Links -->
 <div align="center">
 <a href="https://i.postimg.cc/Yq8DWwHz/Untitled-design.png"><img align='center' src= "https://i.postimg.cc/Yq8DWwHz/Untitled-design.png" width="80%"></a> 
