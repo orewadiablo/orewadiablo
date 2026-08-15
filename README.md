@@ -28,8 +28,6 @@
     alt="Typing animation"
   />
 
-  <br>
-
   <!-- Short Intro -->
   <p>
     🚀 <b>Full Stack Developer</b> &nbsp;•&nbsp;
