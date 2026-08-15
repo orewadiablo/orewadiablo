@@ -37,12 +37,13 @@
 </p>
 </div>
 
- <!-- Extra Details -->
- <table>
+<!-- Extra Details -->
+<table>
   <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="[https://tenor.com/vqTS3fehMfk.gif](https://tenor.com/gWNLPNn2d8T.gif)" width="220" alt="itachi">
+    <td width="30%" align="center" valign="middle">
+      <img src="https://tenor.com/gWNLPNn2d8T.gif" width="220" alt="Itachi">
     </td>
+
     <td width="70%" valign="top">
 
 ### 🚀 About Me
@@ -58,6 +59,8 @@
     </td>
   </tr>
 </table>
+
+
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
 <p align='center'>
