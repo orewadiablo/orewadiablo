@@ -1,7 +1,8 @@
 <div align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:17002E,50:6A00FF,100:BF00FF&height=160&section=header&animation=fadeIn"
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,30:24004A,60:7200FF,100:E100FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&stroke=BF00FF&strokeWidth=2&animation=twinkling"
+    width="100%"
+  />
 </div>
  
  <!-- Heading and Typograssy and profile views -->
