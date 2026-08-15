@@ -37,17 +37,27 @@
 </p>
 </div>
 
-<div align="left">
  <!-- Extra Details -->
-- 🔭  I’m Currently learning **to integrate advanced AI technologies into my projects and aiming to become more proficient in modern web application development.**
+ <table>
+  <tr>
+    <td width="30%" align="center" valign="top">
+      <img src="https://tenor.com/vqTS3fehMfk.gif" width="220" alt="Coding GIF">
+    </td>
+    <td width="70%" valign="top">
 
-- 👯 I’m looking to collaborate on: **Fullstack projects**
+### 🚀 About Me
 
-- 💬 Ask me about: **JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.**
+- 🔭 I’m currently learning **to integrate advanced AI technologies into my projects and become more proficient in modern web application development.**
+
+- 👯 I’m looking to collaborate on **Full Stack projects** and creative software projects.
+
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, AWS, and general software development.**
 
 - ⚡ Fun fact: **I write better code at 2AM than I do after 2 cups of coffee ☕💻**
-</div>
 
+    </td>
+  </tr>
+</table>
  <!-- Profile Views - Waka Time Stats - Followers & Stars -->
 
 <p align='center'>
