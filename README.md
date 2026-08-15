@@ -1,32 +1,28 @@
+<!-- Header, Profile Views & Portfolio -->
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=BF00FF&center=true&vCenter=true&width=900&lines=BIBEK.SABAT;FULLSTACK.DEVELOPER;WELCOME.TO.MY.GITHUB.PROFILE;BUILDING.COOL.STUFF"
-  alt="BIBEK SABAT"
-/>
-
-</div>
- 
- <!-- Heading and Typograssy and profile views -->
-<div align="center">
+  <!-- Neon Purple Header -->
   <img
-    alt="Typograssy"
-    src="https://typograssy.deno.dev/api?text=BIBEK.SABAT-FULLSTACK.DEVELOPER.WELCOME.TO.MY.GITHUB.PROFILE........&l0=none&l1=BF00FF&l2=8A00FF&l3=6A00FF&l4=3B008F&bg=none&frame=none&speed=100&comment="
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;2D+%2F+3D+Artist;AI+%7C+Linux+%7C+Programming;Building+Innovative+Web+Experiences"
+    alt="Typing SVG"
   />
+
   <br><br>
+
+  <!-- Profile Views -->
   <img
-    draggable="false"
-    style="width:119px; height:20px;"
     src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=BF00FF"
     alt="Profile Views"
   />
 
+  <!-- Portfolio -->
   <a href="https://bibeksabat.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-Visit-BF00FF?style=for-the-badge"
       alt="Portfolio"
     />
   </a>
+
 </div>
  
  
