@@ -1,14 +1,7 @@
 <div align="center">
-
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:17002E,50:6A00FF,100:BF00FF&height=160&section=header&animation=fadeIn"
 />
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bibek+Sabat;Full+Stack+Developer;2D+%2F+3D+Artist;AI+%7C+Linux+%7C+Programming;Building+Innovative+Web+Experiences"
-  alt="Typing SVG"
-/>
-
 </div>
  
  <!-- Heading and Typograssy and profile views -->
