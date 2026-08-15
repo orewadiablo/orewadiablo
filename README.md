@@ -1,30 +1,10 @@
-<!-- Header, Profile Views & Portfolio -->
+<!-- Capsule Render on GitHub -->
 <div align="center">
-
-  <!-- Neon Purple Header -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;2D+%2F+3D+Artist;AI+%7C+Linux+%7C+Programming;Building+Innovative+Web+Experiences"
-    alt="Typing SVG"
-  />
-
-  <br><br>
-
-  <!-- Profile Views -->
-  <img
-    src="https://komarev.com/ghpvc/?username=ICLIPTER&style=for-the-badge&color=BF00FF"
-    alt="Profile Views"
-  />
-
-  <!-- Portfolio -->
-  <a href="https://bibeksabat.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Visit-BF00FF?style=for-the-badge"
-      alt="Portfolio"
-    />
-  </a>
-
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0066,50:8A00FF,100:BF00FF&height=180&section=header&text=BIBEK%20SABAT&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+  width="100%"
+/>
 </div>
- 
  
  
  <!-- Heading and BIO -->
