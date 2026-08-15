@@ -1,8 +1,10 @@
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050008,30:24004A,60:7200FF,100:E100FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&stroke=BF00FF&strokeWidth=2&animation=twinkling"
-    width="100%"
-  />
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=BF00FF&center=true&vCenter=true&width=900&lines=BIBEK.SABAT;FULLSTACK.DEVELOPER;WELCOME.TO.MY.GITHUB.PROFILE;BUILDING.COOL.STUFF"
+  alt="BIBEK SABAT"
+/>
+
 </div>
  
  <!-- Heading and Typograssy and profile views -->
