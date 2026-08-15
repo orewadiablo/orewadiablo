@@ -42,9 +42,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <img
-        src="https://media.tenor.com/TwXyz8OMEsEAAAAC/itachi-uchiha-uchiha.gif"
-        width="220"
-        alt="Itachi Uchiha"
+        src="./assets/itachi.gif" width="220" alt="Itachi Uchiha"
       />
     </td>
     <td width="70%" valign="middle">
