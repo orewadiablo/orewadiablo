@@ -101,30 +101,10 @@
  <!-- Luffy GIF -->
   <p align="center">
     <img
-      src="https://media.tenor.com/BTQrs8KFkz8AAAAi/sparxie-lonely-lonely-dance.gif"
+      src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEI-sFBpZmKVl2p3UR7ToIc"
       width="100px"
       alt="dance"
-    />
-    <img
-      src="https://media.tenor.com/ADP4nszb5AcAAAAj/shigure-ui-dance.gif"
-      width="160px"
-      alt="dance"
-    />
-    <img
-      src="https://media.tenor.com/_5-dHn2YWycAAAAj/cool-verycute.gif"
-      width="100px"
-      alt="dance"
-    />
-    <img
-      src="https://tenor.com/view/anime-dancing-girl-cute-moves-gif-17558644"
-      width="150px"
-      alt="dance"
-    />
-    <img
-      src="https://media.tenor.com/altR6WZCk6IAAAAj/dakorca-vtuber-dakorca.gif"
-      width="100px"
-      alt="dance"
-    />
+   
   </p>
 
 ## 💜 GitHub Analytics
