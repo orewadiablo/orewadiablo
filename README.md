@@ -1,7 +1,7 @@
   <!-- Animated Header -->
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D001A,20:210047,45:4B00B5,70:8A00FF,100:D500FF&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6B5B95,25:9D7BC8,50:B57EDC,75:C8A2C8,100:E6D6F7&height=220&section=header&text=BIBEK%20SABAT&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=twinkling"
     width="100%"
     alt="Bibek Sabat"
   />
@@ -25,9 +25,22 @@
   </a>
 </div>
 
+<!-- 🎵 Soundtrack Player : SPECIALZ -->
+<div align="center">
+  <a href="https://raw.githubusercontent.com/orewadiablo/orewadiablo/main/music/SPECIALZ.mp3" target="_blank" rel="noopener" title="▶ Play — opens the built-in music player">
+    <img src="https://img.shields.io/badge/%E2%96%B6_PLAY-SPECIALZ.mp3-C8A2C8?style=for-the-badge&labelColor=E6E6FA" alt="Play SPECIALZ.mp3" />
+  </a>
+  <a href="https://github.com/orewadiablo/orewadiablo/blob/main/music/SPECIALZ.mp3" target="_blank" rel="noopener" title="Open GitHub's audio player — play / pause / seek controls">
+    <img src="https://img.shields.io/badge/%E2%8F%B8_PAUSE-PLAYER_%7C_CONTROLS-C8A2C8?style=for-the-badge&labelColor=9D7BC8" alt="Open the audio player to pause or seek" />
+  </a>
+</div>
+<p align="center">
+  <em>🎵 <b>Now playing</b> — King Gnu • SPECIALZ • Jujutsu Kaisen S2 OP — support the artist on <a href="https://open.spotify.com/search/King%20Gnu%20SPECIALZ">Spotify</a></em>
+</p>
+
 <!-- Changing Text 2 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=BF00FF&center=true&vCenter=true&width=700&lines=Music+%7C+Linux+%7C+Art+%7C+Science;Programming+%7C+Animation+%7C+Video+Editing;Web+Development+%7C+Game+Development;UI%2FUX+Design+%7C+3D+Modeling+%7C+Digital+Art;Photography+%7C+Gaming+%7C+Technology;Open+Source+%7C+Cybersecurity+%7C+AI;Machine+Learning+%7C+Cloud+Computing+%7C+DevOps;Creative+Coding+%7C+Problem+Solving+%7C+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=C77DFF&center=true&vCenter=true&width=700&lines=Music+%7C+Linux+%7C+Art+%7C+Science;Programming+%7C+Animation+%7C+Video+Editing;Web+Development+%7C+Game+Development;UI%2FUX+Design+%7C+3D+Modeling+%7C+Digital+Art;Photography+%7C+Gaming+%7C+Technology;Open+Source+%7C+Cybersecurity+%7C+AI;Machine+Learning+%7C+Cloud+Computing+%7C+DevOps;Creative+Coding+%7C+Problem+Solving+%7C+Innovation" alt="Typing SVG" />
   
 <!-- Poster & Links -->
 <div align="center">
@@ -40,7 +53,7 @@
 <h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Bibek Sabat </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=51C1F7&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=C77DFF&center=true&vCenter=true&width=440&lines=Full+Stack+Developer+%7C+React+%7C+Node.js;Building+Innovative+Web+Experiences" alt="Typing SVG" />
 
 
 
@@ -184,7 +197,7 @@
 
  <!-- Typewriting Introduction -->
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=51C1F7&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=C77DFF&width=470&lines=I+am+also+a+Software+Developer+;Love+Anstronomy+Drawing+Music)](https://git.io/typing-svg)
 
 
 
