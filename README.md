@@ -116,7 +116,7 @@
       alt="dance"
     />
     <img
-      src="https://media.tenor.com/dhfdW3Ex9mUAAAAj/anime-dancing.gif"
+      src="https://tenor.com/view/anime-dancing-girl-cute-moves-gif-17558644"
       width="150px"
       alt="dance"
     />
