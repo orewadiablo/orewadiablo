@@ -105,6 +105,26 @@
       width="100px"
       alt="dance"
     />
+    <img
+      src="https://media.tenor.com/ADP4nszb5AcAAAAj/shigure-ui-dance.gif"
+      width="100px"
+      alt="dance"
+    />
+    <img
+      src="https://media.tenor.com/_5-dHn2YWycAAAAj/cool-verycute.gif"
+      width="100px"
+      alt="dance"
+    />
+    <img
+      src="https://media.tenor.com/dhfdW3Ex9mUAAAAj/anime-dancing.gif"
+      width="100px"
+      alt="dance"
+    />
+    <img
+      src="https://media.tenor.com/altR6WZCk6IAAAAj/dakorca-vtuber-dakorca.gif"
+      width="100px"
+      alt="dance"
+    />
   </p>
 
 ## 💜 GitHub Analytics
