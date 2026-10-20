@@ -107,7 +107,7 @@
     />
     <img
       src="https://media.tenor.com/ADP4nszb5AcAAAAj/shigure-ui-dance.gif"
-      width="100px"
+      width="160px"
       alt="dance"
     />
     <img
@@ -117,7 +117,7 @@
     />
     <img
       src="https://media.tenor.com/dhfdW3Ex9mUAAAAj/anime-dancing.gif"
-      width="100px"
+      width="150px"
       alt="dance"
     />
     <img
