@@ -102,7 +102,7 @@
   <p align="center">
     <img
       src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwEI-sFBpZmKVl2p3UR7ToIc"
-      width="100px"
+      width="600px"
       alt="dance"
    
   </p>
