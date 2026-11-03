@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO  video intro -->
-<img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal  Frontend Developer" width="100%"/>
+<img src="./hero.svg?v=1" alt="Hi, I'm Bibek Sabat  Frontend Developer" width="100%"/>
 
 <br/><br/>
 

@@ -94,7 +94,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
     </g>
     <g transform="translate(102,242)" class="spin" opacity=".7"><g transform="scale(1.000)" opacity="0.9"><path d="M0-11 3.2-3.2 11 0 3.2 3.2 0 11-3.2 3.2-11 0-3.2-3.2Z" fill="none" stroke="#ffb52e" stroke-width="1.8" stroke-linejoin="round"/><circle r="2" fill="none" stroke="#ffb52e" stroke-width="1.5"/></g></g>
 
-    <text class="sg" x="212.0" y="408" font-size="24" fill="#eef1f7" text-anchor="middle">Megha Mittal</text>
+    <text class="sg" x="212.0" y="408" font-size="24" fill="#eef1f7" text-anchor="middle">Bibek Sabat</text>
     <text class="jb" x="212.0" y="430" font-size="11.5" fill="#ff7a1a" text-anchor="middle" letter-spacing="1.6">FRONTEND SHINOBI</text>
     <line x1="80" y1="448" x2="344" y2="448" stroke="#272e42"/>
     <text class="jb" x="80" y="466" font-size="8.8" fill="#8b93a7" letter-spacing="1.5">VILLAGE</text><text class="sgm" x="80" y="481" font-size="12.5" fill="#eef1f7">Konoha.dev</text><text class="jb" x="222" y="466" font-size="8.8" fill="#8b93a7" letter-spacing="1.5">BASE</text><text class="sgm" x="222" y="481" font-size="12.5" fill="#eef1f7">Noida, IN</text><text class="jb" x="80" y="498" font-size="8.8" fill="#8b93a7" letter-spacing="1.5">SQUAD</text><text class="sgm" x="80" y="513" font-size="12.5" fill="#eef1f7">Wiley</text><text class="jb" x="222" y="498" font-size="8.8" fill="#8b93a7" letter-spacing="1.5">SINCE</text><text class="sgm" x="222" y="513" font-size="12.5" fill="#eef1f7">2022</text>

@@ -71,7 +71,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 <g class="swing">
   <!-- strap -->
   <path d="M192 -40 L232 -40 L229 104 L195 104 Z" fill="url(#strapG)"/>
-  <text class="jbb" font-size="9" fill="#fff" fill-opacity=".85" letter-spacing="2.4" transform="translate(216,-30) rotate(90)">MEGHA.DEV &#183; FRONTEND &#183; MEGHA.DEV &#183; FRONTEND</text>
+  <text class="jbb" font-size="9" fill="#fff" fill-opacity=".85" letter-spacing="2.4" transform="translate(216,-30) rotate(90)">BIBEK.DEV &#183; FRONTEND &#183; BIBEK.DEV &#183; FRONTEND</text>
   <rect x="186" y="102" width="52" height="24" rx="6" fill="url(#metal)"/>
   <rect x="200" y="108" width="24" height="7" rx="3.5" fill="#39405020"/>
   <circle cx="212" cy="140" r="13" fill="none" stroke="url(#metal)" stroke-width="5"/>
@@ -95,7 +95,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
     <g stroke="#34d399" stroke-width="1.6" fill="none" opacity=".9" transform="translate(310,226)">
       <path d="M0-8a11 11 0 0 1 0 16"/><path d="M-5-5a6.5 6.5 0 0 1 0 10"/><circle cx="-9" cy="0" r="1.6" fill="#34d399" stroke="none"/>
     </g>
-    <text class="sg" x="212.0" y="412" font-size="25" fill="#eceef6" text-anchor="middle">Megha Mittal</text>
+    <text class="sg" x="212.0" y="412" font-size="25" fill="#eceef6" text-anchor="middle">Bibek Sabat</text>
     <text class="jb" x="212.0" y="434" font-size="12" fill="#a78bfa" text-anchor="middle" letter-spacing="1.6">FRONTEND DEVELOPER</text>
     <line x1="82" y1="450" x2="342" y2="450" stroke="#262a42"/>
     <text class="jb" x="82" y="462" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">BASE</text><text class="sgm" x="82" y="478" font-size="13" fill="#eceef6">Noida, IN</text><text class="jb" x="222" y="462" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">TEAM</text><text class="sgm" x="222" y="478" font-size="13" fill="#eceef6">Wiley</text><text class="jb" x="82" y="492" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">ID</text><text class="sgm" x="82" y="508" font-size="13" fill="#eceef6">MM-0920</text><text class="jb" x="222" y="492" font-size="9.5" fill="#8d93ab" letter-spacing="1.6">SINCE</text><text class="sgm" x="222" y="508" font-size="13" fill="#eceef6">2022</text>
